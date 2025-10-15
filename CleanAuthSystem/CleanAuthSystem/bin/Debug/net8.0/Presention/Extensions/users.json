@@ -1,0 +1,14 @@
+[
+  {
+    "username": "vinhle0506",
+    "password": "123",
+    "phone": "+18777804236",
+    "verified": true
+  },
+  {
+    "username": "newuser",
+    "password": "password123",
+    "phone": "+84987654321",
+    "verified": false
+  }
+]
