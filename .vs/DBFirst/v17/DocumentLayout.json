@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinhl\\source\\repos\\DBFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E82073C-8BA6-40A5-B5ED-CC09786EA3B2}|DBFirst\\DBFirst.csproj|c:\\users\\vinhl\\source\\repos\\dbfirst\\dbfirst\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E82073C-8BA6-40A5-B5ED-CC09786EA3B2}|DBFirst\\DBFirst.csproj|solutionrelative:dbfirst\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E82073C-8BA6-40A5-B5ED-CC09786EA3B2}|DBFirst\\DBFirst.csproj|c:\\users\\vinhl\\source\\repos\\dbfirst\\dbfirst\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E82073C-8BA6-40A5-B5ED-CC09786EA3B2}|DBFirst\\DBFirst.csproj|solutionrelative:dbfirst\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E82073C-8BA6-40A5-B5ED-CC09786EA3B2}|DBFirst\\DBFirst.csproj|c:\\users\\vinhl\\source\\repos\\dbfirst\\dbfirst\\models\\universitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E82073C-8BA6-40A5-B5ED-CC09786EA3B2}|DBFirst\\DBFirst.csproj|solutionrelative:dbfirst\\models\\universitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E82073C-8BA6-40A5-B5ED-CC09786EA3B2}|DBFirst\\DBFirst.csproj|c:\\users\\vinhl\\source\\repos\\dbfirst\\dbfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E82073C-8BA6-40A5-B5ED-CC09786EA3B2}|DBFirst\\DBFirst.csproj|solutionrelative:dbfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E82073C-8BA6-40A5-B5ED-CC09786EA3B2}|DBFirst\\DBFirst.csproj|c:\\users\\vinhl\\source\\repos\\dbfirst\\dbfirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E82073C-8BA6-40A5-B5ED-CC09786EA3B2}|DBFirst\\DBFirst.csproj|solutionrelative:dbfirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E82073C-8BA6-40A5-B5ED-CC09786EA3B2}|DBFirst\\DBFirst.csproj|c:\\users\\vinhl\\source\\repos\\dbfirst\\dbfirst\\models\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E82073C-8BA6-40A5-B5ED-CC09786EA3B2}|DBFirst\\DBFirst.csproj|solutionrelative:dbfirst\\models\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UniversitydbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vinhl\\source\\repos\\DBFirst\\DBFirst\\Models\\UniversitydbContext.cs",
+              "RelativeDocumentMoniker": "DBFirst\\Models\\UniversitydbContext.cs",
+              "ToolTip": "C:\\Users\\vinhl\\source\\repos\\DBFirst\\DBFirst\\Models\\UniversitydbContext.cs",
+              "RelativeToolTip": "DBFirst\\Models\\UniversitydbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T14:54:51.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAAkVAAAAAAAAAAAwwBEVAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-11-06T14:52:08.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vinhl\\source\\repos\\DBFirst\\DBFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "DBFirst\\appsettings.json",
+              "ToolTip": "C:\\Users\\vinhl\\source\\repos\\DBFirst\\DBFirst\\appsettings.json",
+              "RelativeToolTip": "DBFirst\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-06T14:50:40.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinhl\\source\\repos\\DBFirst\\DBFirst\\Program.cs",
+              "RelativeDocumentMoniker": "DBFirst\\Program.cs",
+              "ToolTip": "C:\\Users\\vinhl\\source\\repos\\DBFirst\\DBFirst\\Program.cs",
+              "RelativeToolTip": "DBFirst\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T14:49:15.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LecturerController.cs",
+              "DocumentMoniker": "C:\\Users\\vinhl\\source\\repos\\DBFirst\\DBFirst\\Controllers\\LecturerController.cs",
+              "RelativeDocumentMoniker": "DBFirst\\Controllers\\LecturerController.cs",
+              "ToolTip": "C:\\Users\\vinhl\\source\\repos\\DBFirst\\DBFirst\\Controllers\\LecturerController.cs",
+              "RelativeToolTip": "DBFirst\\Controllers\\LecturerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T14:48:29.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\vinhl\\source\\repos\\DBFirst\\DBFirst\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "DBFirst\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\vinhl\\source\\repos\\DBFirst\\DBFirst\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "DBFirst\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T14:47:19.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lecturer.cs",
+              "DocumentMoniker": "C:\\Users\\vinhl\\source\\repos\\DBFirst\\DBFirst\\Models\\Lecturer.cs",
+              "RelativeDocumentMoniker": "DBFirst\\Models\\Lecturer.cs",
+              "ToolTip": "C:\\Users\\vinhl\\source\\repos\\DBFirst\\DBFirst\\Models\\Lecturer.cs",
+              "RelativeToolTip": "DBFirst\\Models\\Lecturer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T14:40:51.308Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
